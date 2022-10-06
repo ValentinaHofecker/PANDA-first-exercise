@@ -2,4 +2,7 @@ University of Vienna
 Erwin Schrödinger
 Marie Curie
 Noam Chomsky
+Ada Lovelace
+Alan Turing
+Georg Mansky-Kummert
 Elfriede Jelinek
